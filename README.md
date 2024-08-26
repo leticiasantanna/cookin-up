@@ -1,5 +1,7 @@
 # cookin-up
 
+This program was made for studying about Vue.js framework.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
